@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 
 # Inicializar o Selenium WebDriver (ajuste conforme necessário)
-driver = webdriver.Chrome()
+driver =  webdriver.Chrome()
 
 # Acessar a página desejada
 driver.get('https://www.mercadolivre.com.br/')
